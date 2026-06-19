@@ -71,5 +71,3 @@ USE university_library;
 ---
 
 Developed as part of academic portfólio architecture. 🚀
-
-```

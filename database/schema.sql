@@ -274,11 +274,11 @@ INSERT INTO user_type VALUES (2, 'Graduate Student',      30, 5);
 INSERT INTO user_type VALUES (3, 'Professor',             60, 10);
 INSERT INTO user_type VALUES (4, 'Staff',                 30, 5);
 
-INSERT INTO user VALUES (1, 'Thiago Santos',  '11122233344', 'thiago.santos@sempreceub.br',    '(11)91111-1111', '2022-02-10', 1, 1);
-INSERT INTO user VALUES (2, 'Rafael',         '22233344455', 'rafael@sempreceub.br',        '(11)92222-2222', '2021-08-15', 1, 2);
-INSERT INTO user VALUES (3, 'Camille',        '33344455566', 'camille@sempreceub.br',       '(21)93333-3333', '2019-03-01', 3, 3);
-INSERT INTO user VALUES (4, 'Mariana Costa',  '44455566677', 'mariana.c@sempreceub.br',      '(31)94444-4444', '2023-01-20', 2, 4);
-INSERT INTO user VALUES (5, 'João Oliveira',  '55566677788', 'joao.o@sempreceub.br',        '(11)95555-5555', '2022-11-05', 1, 1);
+INSERT INTO user VALUES (1, 'James Santos',  '11122233344', 'james@email.br',    '(11)91111-1111', '2022-02-10', 1, 1);
+INSERT INTO user VALUES (2, 'Rafael',         '22233344455', 'rafael@email.br',        '(11)92222-2222', '2021-08-15', 1, 2);
+INSERT INTO user VALUES (3, 'Camille',        '33344455566', 'camille@email.br',       '(21)93333-3333', '2019-03-01', 3, 3);
+INSERT INTO user VALUES (4, 'Mariana Costa',  '44455566677', 'mariana.c@email.br',      '(31)94444-4444', '2023-01-20', 2, 4);
+INSERT INTO user VALUES (5, 'João Oliveira',  '55566677788', 'joao.o@email.br',        '(11)95555-5555', '2022-11-05', 1, 1);
 
 INSERT INTO enrollment VALUES (1, '2022001', 'Computer Science', 'DCOMP', TRUE,  1);
 INSERT INTO enrollment VALUES (2, '2021010', 'Information Systems', 'DSI',  TRUE,  2);
